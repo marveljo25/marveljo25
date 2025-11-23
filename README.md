@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marvel Jonathan</h1>
-<h3 align="center">Im just a regular chill guy</h3>
+<h3 align="center">Im luv vibe coding</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marveljo25&label=Profile%20views&color=0e75b6&style=flat" alt="marveljo25" /> </p>
 
