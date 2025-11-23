@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marvel Jonathan</h1>
-<h3 align="center">Im luv vibe coding</h3>
+<h3 align="center">I love vibe coding</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marveljo25&label=Profile%20views&color=0e75b6&style=flat" alt="marveljo25" /> </p>
 
@@ -46,7 +46,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marveljo25&show_icons=true&locale=en&layout=compact" alt="top-langs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marveljo25&show_icons=true&locale=en&layout=compact&card_width=500&langs_count=10" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=marveljo25&show_icons=true&locale=en" alt="stats" />
