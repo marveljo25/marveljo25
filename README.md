@@ -57,7 +57,9 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=marveljo25" alt="streak" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=marveljo25&repo=MoodleGPT-free" alt="pin" />
+      <a href="https://github.com/marveljo25/MoodleGPT-free">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=marveljo25&repo=MoodleGPT-free" alt="pin" />
+      </a>
     </td>
   </tr>
 </table>
